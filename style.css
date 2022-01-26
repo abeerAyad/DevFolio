@@ -247,7 +247,7 @@ header .typeWriter{
 .blog .blog-desc::after{
     content: "";
     position: absolute;
-    left: 700px;
+    left: 650px;
     width: 30px;
     height: 5px;
     margin-top: 30px;
@@ -602,7 +602,7 @@ margin-right: 10px;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-15%);
+    transform: translate(-50%,-25%);
     letter-spacing: -1px;
 }
 .contact{
