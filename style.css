@@ -247,7 +247,7 @@ header .typeWriter{
 .blog .blog-desc::after{
     content: "";
     position: absolute;
-    left: 700px;
+    left: 650px;
     width: 30px;
     height: 5px;
     margin-top: 30px;
